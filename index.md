@@ -26,4 +26,6 @@ The idea started in the discord: [Community Discord](https://discord.gg/d2Ck3SF4
 | Title | Owner | Stage | Currently Working On |
 | :---: | :---: | :---: | :------------------: |
 | The community contribution docs | Jak Kav | In Progress | index.md page |
-| add items here | text | text | text |
+| FCU Panel  (Front+Middle+Back)| DRIV3R78 | In Progress | reworking on the fonts |
+| MCDU Panel (Front)| DRIV3R78 | In Progress | sketching the Frontpanel |
+| Korry Button Label Template | DRIV3R78 | In Progress | reworking the fonts |
