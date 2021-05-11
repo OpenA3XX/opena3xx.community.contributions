@@ -3,7 +3,7 @@
 | MCDU | |
 | :---: | :---: |
 | MCDU Front Panel.dxf | CAD File of the Front (visible) Panel |
-| MCDU Back Panel.dxf | CAD File of the Back Panel (mounted on the PCB |
+| MCDU Back Panel.dxf | CAD File of the Back Panel (mounted on the PCB) |
 | MCDU Inlay.dxf | Button Inlay to increase the Panel height for the top two button rows |
 | MCDU Front Panel.stl | 3D printable Front Panel (2mm) |
 | MCDU Back Panel.stl | 3D printable Back Panel (2mm) |
