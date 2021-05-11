@@ -8,4 +8,5 @@
 | MCDU Front Panel.stl | 3D printable Front Panel (2mm) |
 | MCDU Back Panel.stl | 3D printable Back Panel (2mm) |
 | MCDU Inlay.stl | 3D Printable Inlay (3mm) |
-| MCDU Render.png | Current rendering of the MCDU (with some buttons) |
+| MCDU Render Full.png | Current rendering of the MCDU (with some buttons) |
+| MCDU Render Inlay Detail.png | Current detail rendering of the MCDU Inlay |
