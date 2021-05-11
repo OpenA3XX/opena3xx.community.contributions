@@ -10,3 +10,5 @@
 | MCDU Inlay.stl | 3D Printable Inlay (3mm) |
 | MCDU Render Full.png | Current rendering of the MCDU (with some buttons) |
 | MCDU Render Inlay Detail.png | Current detail rendering of the MCDU Inlay |
+
+### Please mention our project OpenA3xx when you use the files, post them or present your results!
