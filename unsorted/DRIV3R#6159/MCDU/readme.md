@@ -2,9 +2,10 @@
 
 | MCDU | |
 | :---: | :---: |
-| CDU Front Base CUT Early Alpha.dxf | Description |
-| MCDU Front Base CUT.stl | Description |
-| MCDU Front Inlay CUT Early Alpha.dxf | Description |
-| MCDU Inlay CUT.stl | Description |
-| MCDU_1.png | Description |
-| MCDU_2.png | Description |
+| MCDU Front Panel.dxf | CAD File of the Front (visible) Panel |
+| MCDU Back Panel.dxf | CAD File of the Back Panel (mounted on the PCB |
+| MCDU Inlay.dxf | Button Inlay to increase the Panel height for the top two button rows |
+| MCDU Front Panel.stl | 3D printable Front Panel (2mm) |
+| MCDU Back Panel.stl | 3D printable Back Panel (2mm) |
+| MCDU Inlay.stl | 3D Printable Inlay (3mm) |
+| MCDU Render.png | Current rendering of the MCDU (with some buttons) |
