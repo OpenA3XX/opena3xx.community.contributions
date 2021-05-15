@@ -2,7 +2,8 @@
 
 | Buttons | |
 | :---: | :---: |
-| Button Label 18x18 CUT.dxf | Description |
-| Button Label 18x18 ENGRAVING.dxf | Description |
-| Button Label 18x18.stl | Description |
-| Button_Label_18x18.png | Description |
+| Button Label 18x18 (BLANK).stl | Button Label 18x18x2 for Buttons blank |
+| Button Label 18x18 (FAULT - ON).stl | Button Label 18x18x2 for Buttons with engraving (FAULT - ON) |
+| Button Label 18x18 engraving (FAULT - ON).dxf | Button Label 18x18 engraving dxf file (FAULT - ON) |
+| Button Label 18x18.dxf | Button Label 18x18 base cut dxf file |
+| Button Label 18x18 render.png | Rendering of sample button label (FAULT - ON) |
