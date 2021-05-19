@@ -124,7 +124,7 @@ Please contact the team if you need any help with this.
 
 | Title | Owner | Stage | Currently Working On |
 | :---: | :---: | :---: | :------------------: |
-| The community contribution docs | Kavster#4400 | Final Checks | index.md page |
+| The community contribution docs | Kavster#4400 | Complete | index.md page |
 | FCU Panel  (Front+Middle+Back)| DRIV3R78 | In Progress | reworking the fonts |
 | MCDU Panel (Front+Back+Inlay)| DRIV3R78 | Ready |  |
 | MCDU Button Labels| DRIV3R78 | In Progress| Font implementation |
