@@ -15,6 +15,7 @@ Know issues and planned enhancements can be found here.
 | MCDU Render Full.png | Current rendering of the MCDU (with some buttons) |
 | MCDU Render Inlay Detail.png | Current detail rendering of the MCDU Inlay |
 | MCDU Buttons (engraved 0.1mm).stl | 3D printable MCDU Buttons engraved 0.1mm (2mm height) |
+| MCDU Buttons (engraved 0.36mm).stl | 3D printable MCDU Buttons engraved 0.36mm (2mm height) |
 | MCDU Buttons (no engraving).stl | 3D printable MCDU Buttons w/o engraving (2mm height) |
 | MCDU Buttons CUT.dxf | CAD File of the MCDU Buttons w/o engraving |
 | MCDU Buttons ENGRAVING.dxf | CAD File of the MCDU Button engraving (only engraving) |
