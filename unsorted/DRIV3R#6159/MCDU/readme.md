@@ -23,6 +23,6 @@ Know issues and planned enhancements can be found here.
 | MCDU Buttons CUT.dxf | CAD File of the MCDU Buttons w/o engraving |
 | MCDU Buttons ENGRAVING.dxf | CAD File of the MCDU Button engraving (only engraving) |
 | Backpanel button cutouts.stl | 3D printable Backpanel with new button cutouts (3mm height)|
-
+| MCDU Front Panel with Display surrounding.stl | 3D printable Frontpanel with beveled display surrounding and embossed parts between the nav buttons (6mm height)|
 
 ### Please mention our project OpenA3xx when you use the files, post them or present your results!
