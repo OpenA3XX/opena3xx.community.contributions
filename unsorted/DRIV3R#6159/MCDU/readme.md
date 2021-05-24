@@ -10,7 +10,7 @@ Know issues and planned enhancements can be found here.
 | MCDU Back Panel.dxf | CAD File of the Back Panel (mounted on the PCB) |
 | MCDU Inlay.dxf | Button Inlay to increase the Panel height for the top two button rows |
 | MCDU Front Panel.stl | 3D printable Front Panel (2mm) |
-| MCDU Back Panel.stl | 3D printable Back Panel (2mm) |
+| MCDU Back Panel.stl | 3D printable Back Panel with cutouts (2mm) |
 | MCDU Inlay.stl | 3D Printable Inlay (3mm) |
 | MCDU Render Full.png | Current rendering of the MCDU (with some buttons) |
 | MCDU Render Inlay Detail.png | Current detail rendering of the MCDU Inlay |
@@ -22,5 +22,7 @@ Know issues and planned enhancements can be found here.
 | MCDU Buttons (no engraving).stl | 3D printable MCDU Buttons w/o engraving (3mm height) |
 | MCDU Buttons CUT.dxf | CAD File of the MCDU Buttons w/o engraving |
 | MCDU Buttons ENGRAVING.dxf | CAD File of the MCDU Button engraving (only engraving) |
+| Backpanel button cutouts.stl | 3D printable Backpanel with new button cutouts (3mm height)|
+
 
 ### Please mention our project OpenA3xx when you use the files, post them or present your results!
