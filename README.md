@@ -129,5 +129,6 @@ Please contact the team if you need any help with this.
 | MCDU Panel (Front+Back+Inlay)| DRIV3R78 | Complete |  |
 | MCDU Button Labels| DRIV3R78 | In Progress| Complete |
 | Korry Button Label Template | DRIV3R78 | In Progress | reworking the fonts |
+| Overhead (FWD) Panels | Kavster#4400 | In Design | VU25 - Lights/Ice |
 
 ---
