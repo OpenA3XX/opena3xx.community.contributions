@@ -127,7 +127,7 @@ Please contact the team if you need any help with this.
 | The community contribution docs | Kavster#4400 | Complete | index.md page |
 | FCU Panel  (Front+Middle+Back)| DRIV3R78 | In Progress | reworking the fonts |
 | MCDU Panel (Front+Back+Inlay)| DRIV3R78 | Complete |  |
-| MCDU Button Labels| DRIV3R78 | In Progress| Complete |
+| MCDU Button Labels | DRIV3R78 | In Progress | sketching LSK Keys |
 | Korry Button Label Template | DRIV3R78 | In Progress | reworking the fonts |
 | Overhead (FWD) Panels | Kavster#4400 | In Design | VU25 - Lights/Ice |
 
